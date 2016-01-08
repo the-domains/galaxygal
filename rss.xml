@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[What Smart Guys Need to Know about Work, Women and Life]]></title>
-        <description><![CDATA[What Smart Guys Need to Know about Work, Women and Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Galaxy Gal: Telling Smart Guys Need to Know about Work, Women and Life]]></title>
+        <description><![CDATA[Galaxy Gal: Telling Smart Guys Need to Know about Work, Women and Life]]></description>
+        <link>http://galaxygal.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 19:27:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 20:23:36 GMT</lastBuildDate>
+        <atom:link href="http://galaxygal.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to Galaxy Gal]]></title>
-            <description><![CDATA[<article><h1>Welcome to Galaxy Gal</h1><p>Whacking Out the Stupid</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa514e28f36d9c0bd991098d54c8f6de8855153a.jpg"></article>]]></description>
-            <link>undefinedwelcome-to-galaxy-gal/index.html</link>
+            <description><![CDATA[<article><h1>Welcome to Galaxy Gal</h1><p>Welcome. And don't be afraid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34e457b5143e226a0d20d24c94ff88a2868daa0e.jpg"></article>]]></description>
+            <link>http://galaxygal.io/welcome-to-galaxy-gal/index.html</link>
             <guid isPermaLink="false">0c5abf4d-47df-4f3d-bcfd-3667ab647f8b</guid>
-            <pubDate>Wed, 06 Jan 2016 19:27:26 GMT</pubDate>
+            <pubDate>Fri, 08 Jan 2016 20:23:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
