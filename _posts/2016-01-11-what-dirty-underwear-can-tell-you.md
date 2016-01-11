@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-11T21:23:05.459Z'
-dateModified: '2016-01-11T21:21:45.409Z'
+datePublished: '2016-01-11T21:35:06.784Z'
+dateModified: '2016-01-11T21:34:52.723Z'
 title: What Dirty Underwear Can Tell You
 author: []
+sourcePath: _posts/2016-01-11-what-dirty-underwear-can-tell-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-what-dirty-underwear-can-tell-you.md
-published: true
 url: what-dirty-underwear-can-tell-you/index.html
 _type: WebPage
 
@@ -29,7 +29,7 @@ a funny story with a good lesson. It was about a young woman in a serious
 relationship who developed a big crush on another guy. Nothing was wrong with
 her existing relationship. But she was really attracted to this other guy, and
 didn't know what to do.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f457df-4d94-4a14-8d77-fda3a10c22c4.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c8f37f9-399e-4971-b531-ae5f62cfcc5a.jpg)
 
 "I'm young, I need to follow my instincts, try new things," she
 thought. She talked to a few friends, and most of them said she should have a
