@@ -1,5 +1,19 @@
+name: GalaxyGal
+favicon: null
+layout_spectrum: 0.15712
+typography_spectrum: 0.17502
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-54276545-2
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#080202'
@@ -9,11 +23,6 @@ color:
     - '#b5a488'
   brandStrength: 0.1875
   lightness: 0.600507
-  rhythmicContrast: 0.75
   saturation: 0.1875
-cta: {}
-layout_spectrum: 0.943412
-name: GalaxyGal
-opengraph: {}
+  rhythmicContrast: 0.75
 purpose: []
-typography_spectrum: 0.17502
