@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-11T21:35:06.784Z'
-dateModified: '2016-01-11T21:34:52.723Z'
+datePublished: '2016-01-11T21:42:29.569Z'
+dateModified: '2016-01-11T21:42:24.276Z'
 title: What Dirty Underwear Can Tell You
 author: []
 sourcePath: _posts/2016-01-11-what-dirty-underwear-can-tell-you.md
