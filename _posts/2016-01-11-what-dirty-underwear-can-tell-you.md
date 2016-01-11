@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-11T21:21:04.720Z'
-dateModified: '2016-01-11T21:11:02.228Z'
+datePublished: '2016-01-11T21:23:05.459Z'
+dateModified: '2016-01-11T21:21:45.409Z'
 title: What Dirty Underwear Can Tell You
 author: []
 authors: []
