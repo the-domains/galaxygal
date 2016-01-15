@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A website for guys who know everything. '
-datePublished: '2016-01-10T22:35:27.231Z'
-dateModified: '2016-01-10T08:17:32.825Z'
+datePublished: '2016-01-15T22:01:17.532Z'
+dateModified: '2016-01-15T22:01:10.533Z'
 title: Welcome to Galaxy Gal
 author: []
 sourcePath: _posts/2016-01-06-welcome-to-galaxy-gal.md
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 What Smart Guys Need to Know about Work, Women and Life
-![Don't be afraid.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dd55de31c615eca27fa8e16294c0d21e89cac67.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e6878c7-f82f-4c22-a8d4-6e79705b8d3b.jpg)
