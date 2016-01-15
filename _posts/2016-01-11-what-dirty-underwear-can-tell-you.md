@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-11T21:42:29.569Z'
-dateModified: '2016-01-11T21:42:24.276Z'
+datePublished: '2016-01-15T19:38:01.425Z'
+dateModified: '2016-01-15T19:37:41.122Z'
 title: What Dirty Underwear Can Tell You
 author: []
 sourcePath: _posts/2016-01-11-what-dirty-underwear-can-tell-you.md
@@ -69,3 +69,7 @@ you're about to take the next step, think about what little things you'd be
 willing to do -- or not -- for that person.
 
 It's that simple.
+
+[_Go back to the Galaxy Gal home page_][0]
+
+[0]: http://galaxygal.io/
