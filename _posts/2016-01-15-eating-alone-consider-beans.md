@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Beans are cheap, easy to cook, and healthy. They also make you fart a lot, but that's a plus too in my opinion."
-datePublished: '2016-01-15T19:34:06.821Z'
-dateModified: '2016-01-15T19:33:33.764Z'
+datePublished: '2016-01-15T19:37:53.375Z'
+dateModified: '2016-01-15T19:37:31.437Z'
 title: Eating Alone? Consider Beans.
 author: []
+sourcePath: _posts/2016-01-15-eating-alone-consider-beans.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-eating-alone-consider-beans.md
-published: true
 url: eating-alone-consider-beans/index.html
 _type: WebPage
 
