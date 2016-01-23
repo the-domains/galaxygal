@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T06:23:03.802Z'
-dateModified: '2016-01-15T21:57:15.075Z'
+datePublished: '2016-01-23T06:25:30.899Z'
+dateModified: '2016-01-23T06:25:23.896Z'
 title: What Dirty Underwear Can Tell You
 author: []
 sourcePath: _posts/2016-01-11-what-dirty-underwear-can-tell-you.md
@@ -49,15 +49,13 @@ part of day-to-day life, distasteful.
 Her crush evaporated. She did not sleep with him, and went on to enjoy a
 long, happy relationship with her partner.
 
-What does this silly little story tell us?
-
-* Physical attraction is not
-all there is to a relationship
-* Real relationships involve
-mundane things in life, like washing underwear
-* If you're looking for
+What does this silly little story tell us? (1) Physical attraction is not
+all there is to a relationship; (2) Real relationships involve
+mundane things in life, like washing underwear; (3) If you're looking for
 something beyond the physical, start thinking about those mundane things
-with that person. Still appealing?
+with that person. 
+
+Still appealing?
 
 To be honest, I have no idea if this is a true story or not. I don't even
 know where I heard it. But I think about it a lot. It applies for both sexes.
@@ -70,6 +68,6 @@ willing to do -- or not -- for that person.
 
 It's that simple.
 
-[_Go back to the Galaxy Gal home page_][0]
+_Go back to the [Galaxy Gal home page][0]_
 
 [0]: http://galaxygal.io/
