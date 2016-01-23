@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T06:23:03.768Z'
+datePublished: '2016-01-23T06:23:03.802Z'
 dateModified: '2016-01-15T21:57:15.075Z'
 title: What Dirty Underwear Can Tell You
 author: []
