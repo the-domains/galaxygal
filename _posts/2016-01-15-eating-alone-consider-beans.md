@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Beans are cheap, easy to cook, and healthy. They also make you fart a lot, but that's a plus too in my opinion."
-datePublished: '2016-01-15T19:37:53.375Z'
-dateModified: '2016-01-15T19:37:31.437Z'
+datePublished: '2016-01-23T06:22:52.080Z'
+dateModified: '2016-01-23T06:22:40.073Z'
 title: Eating Alone? Consider Beans.
 author: []
 sourcePath: _posts/2016-01-15-eating-alone-consider-beans.md
@@ -32,11 +32,15 @@ Beans are legumes, which are edible seeds that grow in a pod. There are many kin
 
 Consider these benefits:
 
-* **No cholesterol**. You may be young now, but as you get older, you'll have to worry about cholesterol clogging up your vascular system. 
-* **High fiber**. You need this to keep your bowels healthy.  Think that's an old man's problem? Think again. It also slows down the digestive process, which is a good thing.
-* **Low fat**. This isn't as scary as it was in the 1980s but you still need to watch your fat intake. Fat carries a powerful caloric punch. 
-* **High protein**. You need protein to build up muscle. And hormones. Don't forget about the hormones.
-* **High in complex carbs**, which provide long-lasting energy.
+**No cholesterol**. You may be young now, but as you get older, you'll have to worry about cholesterol clogging up your vascular system. 
+
+**High fiber**. You need this to keep your bowels healthy.  Think that's an old man's problem? Think again. It also slows down the digestive process, which is a good thing. This isn't as scary as it was in the 1980s but you still need to watch your fat intake. Fat carries a powerful caloric punch. 
+
+**Low fat**. This isn't as scary as it was in the 1980s but you still need to watch your fat intake. Fat carries a powerful caloric punch. 
+
+**High protein**. You need protein to build up muscle. And hormones. Don't forget about the hormones.
+
+**High in complex carbs**, which provide long-lasting energy.
 
 On top of that, they're are versatile and easy to cook, provided you remember to soak them. If that's too hard for you, just open a can. You can find plenty of [good recipes for beans][0] online.
 
@@ -46,7 +50,7 @@ But what about gas? This is caused by a big sugar molecule your body can't handl
 
 You can get more information about beans from my Hubpages article, [_The Benefits of Beans: from Hearts to Farts_][2].  Make beans an important addition to your diet and get healthier!
 
-[_Go back to the Galaxy Gal home page_][3]
+_Go back to the [Galaxy Gal home page][3]_
 
 [0]: http://food.unl.edu/cooking-dry-beans-scratch-can-be-quick
 [1]: http://www.beanbible.com/
