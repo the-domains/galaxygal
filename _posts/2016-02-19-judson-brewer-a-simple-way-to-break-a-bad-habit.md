@@ -16,8 +16,8 @@ keywords:
   - bad
   - profound
 description: "Can we break bad habits by being more curious about them? Psychiatrist Judson Brewer studies the relationship between mindfulness and addiction -- from smoking to overeating to all those other things we do even though we know they're bad for us."
-datePublished: '2016-02-19T20:44:12.260Z'
-dateModified: '2016-02-19T20:44:03.565Z'
+datePublished: '2016-02-19T20:46:12.362Z'
+dateModified: '2016-02-19T20:45:49.607Z'
 author:
   - name: ''
     url: null
