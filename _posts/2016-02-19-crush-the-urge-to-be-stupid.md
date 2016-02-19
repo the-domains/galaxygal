@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "An addiction expert gives advice on how to break bad habits. I'm trying it."
-datePublished: '2016-02-19T19:08:57.610Z'
-dateModified: '2016-02-19T19:06:20.423Z'
+datePublished: '2016-02-19T19:16:10.800Z'
+dateModified: '2016-02-19T19:16:04.984Z'
 title: Crush the Urge to be Stupid
 author: []
 sourcePath: _posts/2016-02-19-crush-the-urge-to-be-stupid.md
@@ -22,7 +22,9 @@ url: crush-the-urge-to-be-stupid/index.html
 _type: WebPage
 
 ---
-If you have a bad habit you're trying to break, but can't, listen up. I listened to a nine-minute talk by Judson Brewer, an addiction expert. He has some great advice I'm dying to try out. 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/769a58bf-7e03-4304-8534-e3f029fa8baf.JPG)
+
+If you have a bad habit you're trying to break, but can't, listen up. I listened to a [nine-minute TED talk][0] by Judson Brewer, an addiction expert. He has some great advice I'm dying to try out. 
 
 My problems? Eating crappy food and putting off work. Since I share these challenges with 74.7 percent of the adult North American population, you probably could use this advice. 
 
@@ -32,4 +34,6 @@ When you have an urge you know is wrong, don't fight it. Instead, get curious ab
 
 Notice the micro-feelings, physical sensations, and how they change over time. Here's what happens: your brain flicks away from basic instinct mode and goes into scientist-analysis mode. In most cases, the urge weakens and disappears.
 
-So give it a try. I'll report on the results.
+So give it a try. I'll report on the results. 
+
+[0]: https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit#t-534809
