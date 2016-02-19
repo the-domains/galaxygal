@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "An addiction expert gives advice on how to break bad habits. I'm trying it."
-datePublished: '2016-02-19T19:16:10.800Z'
-dateModified: '2016-02-19T19:16:04.984Z'
+datePublished: '2016-02-19T19:34:08.984Z'
+dateModified: '2016-02-19T19:33:55.447Z'
 title: Crush the Urge to be Stupid
 author: []
 sourcePath: _posts/2016-02-19-crush-the-urge-to-be-stupid.md
@@ -26,11 +26,11 @@ _type: WebPage
 
 If you have a bad habit you're trying to break, but can't, listen up. I listened to a [nine-minute TED talk][0] by Judson Brewer, an addiction expert. He has some great advice I'm dying to try out. 
 
-My problems? Eating crappy food and putting off work. Since I share these challenges with 74.7 percent of the adult North American population, you probably could use this advice. 
+My problems? Eating crappy food and putting off work. Since I share these challenges with 74.7 percent of the adult North American population, you probably could use this advice yourself. 
 
 Galaxy Gal strongly recommends that you watch the video. But here's the gist of it:
 
-When you have an urge you know is wrong, don't fight it. Instead, get curious about it. How does the urge translate into reactions within your body? And yes, that might include reactions in your pants, depending on what urge you're fighting.
+When you have an urge you know is wrong, don't fight it. Instead, get curious. Thing about how the urge translates into physical reactions within your body. (And yes, that might include reactions in your pants, depending on what urge you're fighting. I knew you were wondering.)
 
 Notice the micro-feelings, physical sensations, and how they change over time. Here's what happens: your brain flicks away from basic instinct mode and goes into scientist-analysis mode. In most cases, the urge weakens and disappears.
 
