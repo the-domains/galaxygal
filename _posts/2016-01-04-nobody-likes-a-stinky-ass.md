@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This one thing can change your life, or at least your mating prospects.'
-datePublished: '2016-01-04T16:04:20.157Z'
-dateModified: '2016-01-04T16:04:07.495Z'
+datePublished: '2016-02-19T18:27:30.755Z'
+dateModified: '2016-02-19T18:27:29.881Z'
 title: Nobody Likes a Stinky Ass
 author: []
+sourcePath: _posts/2016-01-04-nobody-likes-a-stinky-ass.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-nobody-likes-a-stinky-ass.md
-published: true
 url: nobody-likes-a-stinky-ass/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86725f5-b658-4d35-afeb-0bd17b2e34ff.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/955bde6ad82e975066754dadf268be1f21a45266.jpg)
 
 If you're single and on the market, the best thing you can do to improve your prospects is start your day with a dump. Then take a shower. Immediately.
 
@@ -40,4 +40,8 @@ Even if you're not planning some loving, this approach has benefits. Say goodbye
 
 Best of all is going about your day with the confidence that everything inside your pants is in order. 
 
-Don't believe me? Do it anyway. You'll thank me later.
+Don't believe me? Do it anyway. You'll thank me later. 
+
+[_Go back to the Galaxy Gal home page_][0]
+
+[0]: http://galaxygal.io/
