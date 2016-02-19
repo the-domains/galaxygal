@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "An addiction expert gives advice on how to break bad habits. I'm trying it."
-datePublished: '2016-02-19T19:45:39.799Z'
-dateModified: '2016-02-19T19:45:30.283Z'
+datePublished: '2016-02-19T19:48:35.161Z'
+dateModified: '2016-02-19T19:48:10.028Z'
 title: Crush the Urge to be Stupid
 author: []
 sourcePath: _posts/2016-02-19-crush-the-urge-to-be-stupid.md
@@ -36,7 +36,6 @@ Notice the micro-feelings, physical sensations, and how they change over time. H
 
 So give it a try. I'll report on the results. 
 
-_Go back to the[Galaxy Gal home page][1]_
+Go back to the Galaxy Gal home page.
 
 [0]: https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit#t-534809
-[1]: http://galaxygal.io/
