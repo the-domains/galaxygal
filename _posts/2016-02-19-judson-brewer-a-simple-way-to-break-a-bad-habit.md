@@ -1,4 +1,23 @@
 ---
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
+keywords:
+  - habit
+  - tedmed
+  - judson
+  - smoke
+  - psychiatrist
+  - snack
+  - brewer
+  - beg
+  - bad
+  - profound
+description: "Can we break bad habits by being more curious about them? Psychiatrist Judson Brewer studies the relationship between mindfulness and addiction -- from smoking to overeating to all those other things we do even though we know they're bad for us."
+datePublished: '2016-02-19T20:44:12.260Z'
+dateModified: '2016-02-19T20:44:03.565Z'
 author:
   - name: ''
     url: null
@@ -32,24 +51,6 @@ related:
     thumbnail_height: 180
     thumbnail_url: 'http://tedcdnpe-a.akamaihd.net/images/ted/8d116f6ed73143154a5f8fd240fa4ab6fd52b1cb_240x180.jpg?lang=en'
     thumbnail_width: 240
-publisher:
-  url: 'http://ted.com'
-  name: TED
-  favicon: 'https://tedcdnpa-a.akamaihd.net/favicon.ico'
-  domain: www.ted.com
-keywords:
-  - habit
-  - tedmed
-  - judson
-  - smoke
-  - psychiatrist
-  - snack
-  - brewer
-  - beg
-  - bad
-  - profound
-description: "Can we break bad habits by being more curious about them? Psychiatrist Judson Brewer studies the relationship between mindfulness and addiction -- from smoking to overeating to all those other things we do even though we know they're bad for us."
-inLanguage: en
 app_links:
   - url: 'ted://x-callback-url/talk?talkID=2420&source=facebook'
     type: ios
@@ -59,15 +60,16 @@ app_links:
     type: web
     app_name: TED
     package: com.ted.android
-isBasedOnUrl: 'https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit#t-534809'
 title: 'Judson Brewer: A simple way to break a bad habit'
-datePublished: '2016-02-19T20:42:08.636Z'
-dateModified: '2016-02-19T20:39:34.715Z'
 sourcePath: _posts/2016-02-19-judson-brewer-a-simple-way-to-break-a-bad-habit.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: TED
+  domain: www.ted.com
+  url: 'http://ted.com'
+  favicon: 'https://tedcdnpa-a.akamaihd.net/favicon.ico'
+url: judson-brewer-a-simple-way-to-break-a-bad-habit/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
