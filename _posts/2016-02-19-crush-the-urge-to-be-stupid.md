@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "An addiction expert gives advice on how to break bad habits. I'm trying it."
-datePublished: '2016-02-19T20:22:02.688Z'
-dateModified: '2016-02-19T19:49:18.389Z'
-title: Crush the Urge to be Stupid
+datePublished: '2016-02-19T20:26:00.821Z'
+dateModified: '2016-02-19T20:25:37.444Z'
+title: How to Crush the Urge to be Stupid
 author: []
 sourcePath: _posts/2016-02-19-crush-the-urge-to-be-stupid.md
 published: true
