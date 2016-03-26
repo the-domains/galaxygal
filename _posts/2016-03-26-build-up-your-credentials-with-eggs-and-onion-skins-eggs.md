@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "How would you like to blow your girl's mind with your cultural savvy? You can do it in less than an hour by making Ukrainian Easter eggs.\_"
-datePublished: '2016-03-26T19:49:42.707Z'
-dateModified: '2016-03-26T19:47:17.427Z'
+datePublished: '2016-03-26T19:52:58.685Z'
+dateModified: '2016-03-26T19:52:58.018Z'
 title: Build Up Your Credentials with Eggs and Onion Skins Eggs
 author: []
 sourcePath: _posts/2016-03-26-build-up-your-credentials-with-eggs-and-onion-skins-eggs.md
