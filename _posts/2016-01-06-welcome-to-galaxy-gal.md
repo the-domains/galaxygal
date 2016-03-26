@@ -1,13 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'What Smart Guys Need to Know about Work, Women and Life'
-datePublished: '2016-03-26T18:51:53.041Z'
-dateModified: '2016-03-26T18:51:42.213Z'
+datePublished: '2016-03-26T19:46:32.070Z'
+dateModified: '2016-03-26T19:46:23.251Z'
 title: Welcome to Galaxy Gal
 author: []
 sourcePath: _posts/2016-01-06-welcome-to-galaxy-gal.md
@@ -18,10 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: welcome-to-galaxy-gal/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85e59997-aa62-458e-80b2-610953f2f204.jpg)
-
 What Smart Guys Need to Know about Work, Women and Life
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7fe8e1e-23fa-4872-80c3-c68a006dc617.jpg)
