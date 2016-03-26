@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "If you have a bad habit you're trying to break, but can't, listen up. I listened to a nine-minute TED talk by Judson Brewer, an addiction expert. He has some great advice I'm dying to try out.\_"
-datePublished: '2016-03-26T19:50:27.185Z'
-dateModified: '2016-03-26T19:50:26.543Z'
+datePublished: '2016-03-26T19:52:31.801Z'
+dateModified: '2016-03-26T19:52:25.142Z'
 title: How to Crush the Urge to be Stupid
 author: []
 sourcePath: _posts/2016-02-19-crush-the-urge-to-be-stupid.md
