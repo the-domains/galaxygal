@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'What Smart Guys Need to Know about Work, Women and Life'
-datePublished: '2016-03-26T19:46:32.070Z'
-dateModified: '2016-03-26T19:46:23.251Z'
+datePublished: '2016-03-26T19:48:50.125Z'
+dateModified: '2016-03-26T19:48:49.554Z'
 title: Welcome to Galaxy Gal
 author: []
 sourcePath: _posts/2016-01-06-welcome-to-galaxy-gal.md
