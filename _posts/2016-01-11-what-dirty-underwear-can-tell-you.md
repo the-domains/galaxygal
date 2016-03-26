@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-23T06:25:31.024Z'
-dateModified: '2016-01-23T06:25:23.896Z'
+description: "Have you ever thought about washing underwear\_–\_someone else's?\_"
+datePublished: '2016-03-26T21:19:23.117Z'
+dateModified: '2016-03-26T19:49:51.213Z'
 title: What Dirty Underwear Can Tell You
 author: []
 sourcePath: _posts/2016-01-11-what-dirty-underwear-can-tell-you.md
