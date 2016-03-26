@@ -4,8 +4,15 @@
         <description><![CDATA[Galaxy Gal]]></description>
         <link>http://galaxygal.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 19:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 19:43:33 GMT</lastBuildDate>
         <atom:link href="http://galaxygal.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a navigation page.]]></title>
+            <description><![CDATA[<article><h1>This is a navigation page.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0cf1692-76d6-41c2-a52a-f7ad918f4e49.jpg"></article>]]></description>
+            <link>http://galaxygal.io/this-is-a-navigation-page/index.html</link>
+            <guid isPermaLink="false">5005527f-a902-4604-b5c2-e828ae9a6807</guid>
+            <pubDate>Sat, 26 Mar 2016 19:42:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is a homepage page.]]></title>
             <description><![CDATA[<article><h1>This is a homepage page.</h1><p>Almost out of ink.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/053d78dc-791c-4fee-8bf4-f9783fbc4f88.jpg"></article>]]></description>
