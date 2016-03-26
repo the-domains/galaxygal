@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "An addiction expert gives advice on how to break bad habits. I'm trying it."
-datePublished: '2016-02-19T20:28:36.103Z'
-dateModified: '2016-02-19T20:27:53.979Z'
+description: "If you have a bad habit you're trying to break, but can't, listen up. I listened to a nine-minute TED talk by Judson Brewer, an addiction expert. He has some great advice I'm dying to try out.\_"
+datePublished: '2016-03-26T19:50:27.185Z'
+dateModified: '2016-03-26T19:50:26.543Z'
 title: How to Crush the Urge to be Stupid
 author: []
 sourcePath: _posts/2016-02-19-crush-the-urge-to-be-stupid.md
