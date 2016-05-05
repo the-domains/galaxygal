@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Dishwashers may save us a lot of hard labor, but there’s still work involved: you have to load and then unload all the dishes. Like most parents, I assigned dishwasher duty to my kids. They bitched about it for years – one of them still does.'
-datePublished: '2016-05-05T07:06:20.313Z'
-dateModified: '2016-05-05T07:02:14.556Z'
+datePublished: '2016-05-05T07:07:14.813Z'
+dateModified: '2016-05-05T07:06:28.522Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-the-two-dishwasher-concept.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-the-two-dishwasher-concept.md
 url: the-two-dishwasher-concept/index.html
 _type: WebPage
 
